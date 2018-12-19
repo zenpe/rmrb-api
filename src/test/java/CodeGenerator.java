@@ -26,8 +26,8 @@ import static com.rmrb.core.ProjectConstant.SERVICE_PACKAGE;
 public class CodeGenerator {
     //JDBC配置，请修改为你项目的实际配置
     private static final String JDBC_URL = "jdbc:mysql://localhost:3306/rmrb";
-    private static final String JDBC_USERNAME = "flipprod";
-    private static final String JDBC_PASSWORD = "youfish1_";
+    private static final String JDBC_USERNAME = " ";
+    private static final String JDBC_PASSWORD = " ";
     private static final String JDBC_DIVER_CLASS_NAME = "com.mysql.jdbc.Driver";
 
     private static final String PROJECT_PATH = System.getProperty("user.dir");//项目在硬盘上的基础路径
